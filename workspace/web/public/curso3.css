@@ -1,0 +1,29 @@
+div p{
+    color: green;
+}
+
+div p:hover{
+    font-weight: bold;
+}
+
+a:visited{
+    color: yellow;
+}
+
+div.mio::before{
+    content: "fsfs";
+}
+
+div.mio{
+    border: solid 3px green;
+    margin: 10px;
+    padding: 15px;
+}
+
+div.mio1{
+    position: relative;
+    top: 30px;
+}
+div.mio2{
+    position: static;
+}

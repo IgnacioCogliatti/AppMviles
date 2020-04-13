@@ -1,0 +1,5 @@
+node
+npm init
+npm install express --save
+clear
+node run
